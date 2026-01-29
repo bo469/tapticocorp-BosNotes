@@ -1,0 +1,15 @@
+{
+  "name": "bosnotes",
+  "version": "1.0.0",
+  "description": "BosNotes - A note-taking application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["notes", "productivity"],
+  "author": "Taptico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
