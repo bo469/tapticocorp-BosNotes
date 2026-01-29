@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+// Deployed in us-east1
 
 // Get port from environment variable or use 8080
 const PORT = process.env.PORT || 8080;
